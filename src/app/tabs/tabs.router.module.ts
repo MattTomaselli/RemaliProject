@@ -34,6 +34,7 @@ const routes: Routes = [
           }
         ]
       },
+      //ADD ROUTING FOR PAGE 4 (ACCOUNT PAGE)
       {
         path: '',
         redirectTo: '/tabs/tab1',
